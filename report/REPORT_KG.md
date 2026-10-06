@@ -1,7 +1,6 @@
 # Báo cáo Day 19 — Flat RAG vs GraphRAG
 
 **Họ tên:** Trần Nam Anh  **MSSV:** 2A202602901  **Ngày:** 2026-10-05
-**Họ tên:** Trần Nam Anh  **MSSV:** 2A202602901  **Ngày:** 2026-10-06
 
 > Kỳ vọng và thang điểm: `SUBMISSION.md`. Mọi số liệu khớp 100% với `ket_qua_benchmark_kg.txt`. Bản thiết kế ontology nộp riêng ở `report/ONTOLOGY.md`.
 > Kỳ vọng và thang điểm: `SUBMISSION.md`. Mọi số liệu khớp 100% với file `ket_qua_benchmark_kg.txt` sinh ra từ code. Bản thiết kế ontology nộp riêng ở `report/ONTOLOGY.md`.
