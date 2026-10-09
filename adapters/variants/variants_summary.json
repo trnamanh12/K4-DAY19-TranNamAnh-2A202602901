@@ -1,0 +1,36 @@
+{
+  "dpo": {
+    "eval_reward_accuracy": 0.63,
+    "eval_chosen_reward": 0.08716115900038858,
+    "eval_rejected_reward": 0.0662013233883772,
+    "mean_output_chars": 432.35,
+    "diagnosis": "AMBIGUOUS"
+  },
+  "rpo": {
+    "eval_reward_accuracy": 0.62,
+    "eval_chosen_reward": 0.5455822251737118,
+    "eval_rejected_reward": 0.5146263228356838,
+    "mean_output_chars": 432.4,
+    "diagnosis": "AMBIGUOUS"
+  },
+  "dpo_norm": {
+    "eval_reward_accuracy": 0.62,
+    "eval_chosen_reward": -0.18533616364002228,
+    "eval_rejected_reward": -0.19061601750552654,
+    "mean_output_chars": 430.5,
+    "diagnosis": "LIKELIHOOD DISPLACEMENT"
+  },
+  "ld_dpo": {
+    "eval_reward_accuracy": 0.57,
+    "eval_chosen_reward": -0.1303756793413777,
+    "eval_rejected_reward": -0.1561602905439213,
+    "mean_output_chars": 431.45,
+    "diagnosis": "LIKELIHOOD DISPLACEMENT"
+  },
+  "orpo": {
+    "start": "/kaggle/working/lab22/models/sft-merged",
+    "eval_reward_accuracy": 0.6499999761581421,
+    "eval_log_odds_ratio": -0.6245324611663818,
+    "mean_output_chars": 436.5
+  }
+}

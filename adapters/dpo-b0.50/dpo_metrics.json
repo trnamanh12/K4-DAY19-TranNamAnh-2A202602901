@@ -1,0 +1,19 @@
+{
+  "compute_tier": "T4",
+  "base_model": "unsloth/Qwen3-4B-Instruct-2507-unsloth-bnb-4bit",
+  "reference": "models/sft-merged (precomputed)",
+  "beta": 0.5,
+  "lr": 5e-06,
+  "loss_type": [
+    "sigmoid"
+  ],
+  "final_train_loss": 0.6290902781486511,
+  "end_chosen_reward": 1.6499311685562135,
+  "end_rejected_reward": 1.2625723361968995,
+  "end_reward_gap": 0.38735883235931395,
+  "eval_chosen_reward": 1.7301988887786866,
+  "eval_rejected_reward": 1.3715643787384033,
+  "eval_reward_gap": 0.3586345100402832,
+  "eval_reward_accuracy": 0.67,
+  "diagnosis": "AMBIGUOUS"
+}
